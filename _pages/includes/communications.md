@@ -1,6 +1,6 @@
 # 🗞️ Academics and Communications
 
-I am fortunate to meet many interesting people & Team:
+- I am fortunate to meet many interesting people & Team:
 
 1. University.
    - SJTU:   [Chaoyi Wu](https://scholar.google.com/citations?user=ZLHTzHEAAAAJ), [Xiaoman Zhang](https://scholar.google.com/citations?user=Zno4WggAAAAJ), [Haicheng Wang](https://scholar.google.com.hk/citations?user=x0Uk7S8AAAAJ&hl), [Jinxiang Liu](https://scholar.google.com/citations?user=wSRKaWIAAAAJ), [Yue Hu](https://scholar.google.com/citations?user=XBbwb78AAAAJ), [Chaoqin Huang](https://scholar.google.com/citations?user=BAZSE7wAAAAJ), [Aofan Jiang](https://jjjaaafff.github.io/).
