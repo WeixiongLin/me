@@ -1,0 +1,15 @@
+version: '3'
+
+services:
+
+  jekyll:
+    volumes:
+      - $PWD:/srv/jekyll:Z
+    stdin_open: true
+    tty: true
+    image: do.nark.eu.org/jekyll/jekyll:latest
+    ports:
+      - "4000:4000"
+      - "35729:35729"
+    # command: bash ./run_server.sh
+    command: tail -F anything # 让容器持续运行不要退出
