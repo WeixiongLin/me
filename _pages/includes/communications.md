@@ -1,3 +1,6 @@
-# 🗞️ Academics and Communications
+# test and test
 
-- I am fortunate to meet many interesting people & Team:
+- one
+- two
+- three
+
