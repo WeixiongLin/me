@@ -1,5 +1,4 @@
-# 📝 Publications 
-
+# 📝 Publications
 
 ## 📚 Multimodal Large Language Models
 
