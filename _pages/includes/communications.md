@@ -1,4 +1,4 @@
-# Academics and Communications
+# Communications
 
 - I am fortunate to meet many interesting people & Team:
 
