@@ -26,7 +26,6 @@ redirect_from:
 {% include_relative includes/internships.md %}
 
 {% include_relative includes/communications.md %}
-<!-- {% include_relative includes/communications.md %} -->
 
 {% include_relative includes/honors.md %}
 
