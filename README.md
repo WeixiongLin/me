@@ -34,7 +34,8 @@ git clone git@github.com:WeixiongLin/me.git
 bundle config mirror.https://rubygems.org https://gems.ruby-china.com
 bundle install
 bundle add webrick
-bundle exec jekyll liveserve --port 4000
+# bundle exec jekyll liveserve --port 4000  # 这个不知道为什么不 work, 请用下面的指令替代
+jekyll serve --watch --drafts
 ```
 
 
