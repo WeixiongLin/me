@@ -21,11 +21,16 @@ redirect_from:
 
 {% include_relative includes/news.md %}
 
+{% include_relative includes/researches.md %}
+
 {% include_relative includes/pub.md %}
 
-{% include_relative includes/internships.md %}
-
 {% include_relative includes/communications.md %}
+
+<!-- {% include_relative includes/patents.md %} -->
+<!-- not ready -->
+
+{% include_relative includes/educations.md %}
 
 {% include_relative includes/honors.md %}
 

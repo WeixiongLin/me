@@ -1,5 +1,18 @@
 # 📝 Publications
 
+
+## ⚡️ Data-efficient Large-scale Pretraining
+
+
+- preprint [Squeeze Out Tokens from Sample for Finer-Grained Data Governance ](https://arxiv.org/pdf/2503.14559.pdf) <br>
+  **Weixiong Lin**, Chen Ju, Haicheng Wang, Shengchao Hu, Shuai Xiao, et al.
+- ``CVPR 2025`` [Advancing Myopia To Holism: Fully Contrastive Language-Image Pre-training](https://arxiv.org/pdf/2412.00440.pdf) | [Project & Code](https://voide1220.github.io/Holism) <br>
+  Haicheng Wang, Chen Ju, **Weixiong Lin**, Shuai Xiao, et al.
+- ``ICASSP 2025`` [Contrast and Unity for Partially-Supervised Temporal Sentence Grounding](https://arxiv.org/abs/2502.12917) <br>
+  Haicheng Wang, Chen Ju, **Weixiong Lin**, Jinxiang Liu, Chaofan Ma, Ya Zhang, Yanfeng Wang
+
+
+
 ## 📚 Multimodal Large Language Models
 
 - ``MICCAI 2023`` [PMC-CLIP: Contrastive Language-Image Pre-training Using Biomedical Documents](https://weixionglin.github.io/PMC-CLIP) [![](https://img.shields.io/github/stars/WeixiongLin/PMC-CLIP?style=social&label=Stars)](https://github.com/WeixiongLin/PMC-CLIP)<br>

@@ -1,11 +1,12 @@
 Hello! I'm Weixiong Lin (林玮雄).
 
-I'm now an research intern of Alibaba Search and Recommendation Department. The vision is to develop large-scale visual searching system (拍立淘). And I am contributing to the superlarge-scale pre-training (10-billion image-text product data).
+I'm an algorithm researcher of TikTok Search Department.
+The vision is to develop general multi-modal technologies for various applications with global influence (tiktok, lemon8, etc), such as superlarge-scale pre-training for image/text/video contents, guided with reinforcement learning.
 
-My research interest includes Representation Learning & Multi-Modal Foundation Model(Data Synthesis, Knowledge Injection). Feel free to reach me if you are seeking any form of cooperation.
-<a href='https://scholar.google.com/citations?user=Ka57qcUAAAAJ&hl'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FWeixiongLin%2Fme@google-scholar-stats%2Fgs_data_shieldsio.json"></a>
+Before that, I explore with some outstanding researchers from Future Living Laboratory (未来生活实验室), Alibaba, working to develop large-scale searching & question-answering system (拍立淘), one of the largest visual/multi-modal application scenarios in China.
 
-I am fortunate to be advised by [Prof. Weidi Xie](https://weidixie.github.io/)(海外优青) and [Prof. Ya Zhang](https://mediabrain.sjtu.edu.cn/yazhang/)(国家万人), in [MediaBrain Group](https://mediabrain.sjtu.edu.cn/), Shanghai Jiao Tong University.
+I am fortunate to be advised by [Prof. Weidi Xie](https://weidixie.github.io/)(海外优青) and [Prof. Ya Zhang](https://mediabrain.sjtu.edu.cn/yazhang/)(国家万人), also collaborating with [Prof. Yanfeng Wang](https://scholar.google.com.hk/citations?user=x_sgJskAAAAJ)(人工智能学院院长) in [MediaBrain Group](https://mediabrain.sjtu.edu.cn/), Shanghai Jiao Tong University.
 
 
-**Email**: wx_lin[at]outlook[dot]com
+<p> <b>Email:</b> wx_lin[at]outlook[dot]com / wx_lin[at]alumni[dot]sjtu[dot]edu[dot]cn          &emsp;
+<b> Google Scholar:</b> Citations 700+, H-index 5, I10-index 5 </p>
